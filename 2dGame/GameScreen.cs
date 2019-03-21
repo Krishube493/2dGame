@@ -60,7 +60,8 @@ namespace _2dGame
             drawBox.Add(b5);
 
             player = new Box(this.Width / 2, 375, 15, 15);
-
+            
+            //sound playing on repeat 
             MoveSound.PlayLooping();
         }
 
