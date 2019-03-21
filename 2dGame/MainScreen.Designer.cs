@@ -38,11 +38,11 @@
             // 
             this.Title.Font = new System.Drawing.Font("Papyrus", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Title.ForeColor = System.Drawing.Color.White;
-            this.Title.Location = new System.Drawing.Point(84, 111);
+            this.Title.Location = new System.Drawing.Point(87, 60);
             this.Title.Name = "Title";
-            this.Title.Size = new System.Drawing.Size(238, 45);
+            this.Title.Size = new System.Drawing.Size(238, 117);
             this.Title.TabIndex = 0;
-            this.Title.Text = "Crossy Road";
+            this.Title.Text = "Pac-Man Crossy Road";
             // 
             // startButton
             // 
